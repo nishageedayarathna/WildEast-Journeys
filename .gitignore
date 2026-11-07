@@ -22,9 +22,6 @@ dist-ssr
 *.sw?
 .env
 
-# Bolt configuration
-.bolt/
-
 # Vite cache
 .vite/
 
